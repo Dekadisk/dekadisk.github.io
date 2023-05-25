@@ -1,0 +1,27 @@
+---
+layout: page
+title: Video games
+permalink: /games.html
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Here are all the games I've worked on. <i> Please note that I also worked on Microsoft Flight Simulator when I was a gameplay programmer at Asobo Studio!</i></h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+    {% if post.categories[0] == "video_games" %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+
+  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+
+</div>
