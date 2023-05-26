@@ -3,7 +3,7 @@ layout: post
 title:  "Other games"
 date:   2023-05-21 12:00:01 -0300
 categories: "video_games"
-img: UEMAP.png
+img: Platformer.png
 ---
 <style>body {text-align: justify}</style>
 
