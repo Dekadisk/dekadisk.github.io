@@ -52,6 +52,7 @@ I wanted the player to see where their goal - the head of the milicia - was as s
 Note that I used the "White Box" philosophy while creating this map, starting from simple geometric shapes, and then only adding details - for example, windows, bins, etc. However, I didn't detail inacessible buildings: those only act as landscape.
 While I did use some external meshes for some elements (street lights, fountains, cars), most of the blocking was made using Unreal Engine's BSP (which were later converted to static meshes), and its modeling tools, introduced in Unreal Engine 5. Those are perfect for level designing, allowing elements to be modified in-engine!
 To make the blocking clearer, I used Unreal Engine materials from Quixel.
+[<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/SC.png">](https://dekadisk.gitlab.io/assets/SC.png)
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/UEMAP.png">](https://dekadisk.gitlab.io/assets/UEMAP.png)
 ![](https://dekadisk.gitlab.io/assets/ExploreMap.mp4)
 
