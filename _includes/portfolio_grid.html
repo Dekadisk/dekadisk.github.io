@@ -6,7 +6,7 @@
       {% for post in site.posts %}
       {% if post.categories[0] == "video_games" %}
       <div class="portfolio-flex-item portfolio-item">
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
         <!--<a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">-->
           <div class="caption">
             <div class="caption-content">
@@ -14,6 +14,7 @@
             </div>
           </div>
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+          {{ post.title }}
         </a>
       </div>
       {% endif %}
