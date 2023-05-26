@@ -11,4 +11,7 @@ _The creation of this game involved the utilization of C++ programming and scrip
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-1EHMtNWxX8?t=62" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Here is the design document, in French:
+<embed src="https://dekadisk.gitlab.io/assets/Design_Final_Labyrinth.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
+
 
