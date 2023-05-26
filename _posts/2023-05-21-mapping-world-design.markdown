@@ -24,7 +24,6 @@ My objective here was to create a map that could form one of the levels of an im
 ### Results first
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E72-AQVyEOI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-If the Youtube player doesn't appear, please copy/paste this link : https://www.youtube.com/watch?v=E72-AQVyEOI
 
 ### Reference Material
 
