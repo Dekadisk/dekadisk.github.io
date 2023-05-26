@@ -53,13 +53,13 @@ I wanted the player to see where their goal - the head of the milicia - was as s
 Note that I used the "White Box" philosophy while creating this map, starting from simple geometric shapes, and then only adding details - for example, windows, bins, etc. I didn't detail most of the inacessible buildings: those only act as landscape.
 While I did use some external meshes for some elements (street lights, fountains, cars), most of the blocking was made using Unreal Engine's BSP (which were later converted to static meshes), and its modeling tools, introduced in Unreal Engine 5. Those are perfect for level designing, allowing elements to be modified in-engine!
 To make the blocking clearer, I used Unreal Engine materials from Quixel.
-[<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/SC.png">](https://dekadisk.gitlab.io/assets/SC.png)
+[<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.github.io/assets/SC.png">](https://dekadisk.github.io/assets/SC.png)
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/UEMAP.png">](https://dekadisk.gitlab.io/assets/UEMAP.png)
 ![](https://dekadisk.gitlab.io/assets/ExploreMap.mp4)
 
 As said earlier, I changed the layout a few times, including in this phase. For example, the locked doors (from area B to C and the one in the target's house) were added in the latest iterations.
 
-[<img width="50%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/RedDoor.png">](https://dekadisk.gitlab.io/assets/RedDoor.png)
+[<img width="50%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.github.io/assets/RedDoor.png">](https://dekadisk.gitlab.io/github/RedDoor.png)
 
 ### Details 
 
@@ -101,7 +101,7 @@ As said before, going to area B triggers the __apparition of an enemy carrying a
 ### Scripting : doors
 
 [<img width="50%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/OpenDoor.gif">](https://dekadisk.gitlab.io/assets/OpenDoor.gif)
-
+Padlocks can only be opened by specific keys ; the door allowing the player to escape can only be unlocked with the red key carried by the target.
 
 ### AI Scripting : patrols and behaviour trees
 
