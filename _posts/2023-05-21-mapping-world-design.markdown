@@ -31,13 +31,13 @@ I started this project by looking for pictures which could act as sources of ins
 
 <img style="float: center;" src="https://dekadisk.gitlab.io/assets/References.png">
 
-### Drafts: paper and story time
+### Drafts: paper time and story
 
 I started by drawing a few parts of the map, then the whole level, taking into account what I wanted the player to feel. I wanted this map to be a barricaded part of a bigger Morrocan city: as such, it can perfectly be a part of a bigger open world (for example, in an Assassin's Creed-like game), or stand on its own (in a Dishonored-like game). By barricading it, I also wanted to make this level much more stressful for the players who cannot flee, as they are trapped in their enemies' territory.
 
 I went back to my sheets of paper a few times before settling on a layout that I liked. The map underwent significant changes from the initial draft to its final design. Initially, it featured two parallel roads — a main one that remained in the final version, along with a back alley on its right. However, I later opted to include several closed shops and stalls in the map to portray the entire district as being under lockdown. These elements are situated in a small square (visible in the sketches below), which replaced the back alley. 
 
-As I contemplated the notion of a locked-down district, I devised a brief and straightforward backstory for the villain who resides there: he serves as the leader of a militia that governs this barricaded area and its inhabitants. For this level, the player character has infiltrated this barricaded district and must take down the leader, in his house. Once the leader is dead, a cutscene would then show the player escaping via a door in his house (under the stairs in the showcase video), thanks to key carried by the leader.
+As I contemplated the notion of a locked-down district, I devised a brief and straightforward backstory for the villain who resides there: he serves as the leader of a militia that governs this barricaded area and its inhabitants. For this level, the player character has infiltrated this barricaded district and must take down the leader, in his house. Once the leader is dead, a cutscene would then show the player escaping via a door in his hous, thanks to key carried by the leader.
 
 
 _(Click the pictures to see bigger versions!)_
@@ -56,6 +56,10 @@ To make the blocking clearer, I used Unreal Engine materials from Quixel.
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/SC.png">](https://dekadisk.gitlab.io/assets/SC.png)
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/UEMAP.png">](https://dekadisk.gitlab.io/assets/UEMAP.png)
 ![](https://dekadisk.gitlab.io/assets/ExploreMap.mp4)
+
+As said earlier, I changed the layout a few times, including in this phase. For example, the locked doors (from area B to C and the one in the target's house) were added in the latest iterations.
+
+[<img width="50%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/RedDoor.png">](https://dekadisk.gitlab.io/assets/RedDoor.png)
 
 ### Details 
 
