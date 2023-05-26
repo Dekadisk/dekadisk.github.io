@@ -33,9 +33,11 @@ I started this project by looking for pictures which could act as sources of ins
 
 ### Drafts: paper and story time
 
-I did come back to paper to draw a few parts of the map, then some drafts of the whole level, taking into account what I wanted the player to feel. I wanted this map to be a barricaded part of a bigger Morrocan city: as such, it can perfectly be a part of a bigger open world (for example, in an Assassin's Creed-like game), or stand on its own (in a Dishonored-like game)! By barricading it, I also wanted to make this level much more stressful for the players who cannot flee, as they are trapped in their enemies' territory!
+I started by drawing a few parts of the map, then the whole level, taking into account what I wanted the player to feel. I wanted this map to be a barricaded part of a bigger Morrocan city: as such, it can perfectly be a part of a bigger open world (for example, in an Assassin's Creed-like game), or stand on its own (in a Dishonored-like game). By barricading it, I also wanted to make this level much more stressful for the players who cannot flee, as they are trapped in their enemies' territory.
 
-I went back to my sheets of paper a few times before settling on a layout that I liked. The map underwent significant changes from the initial draft to its final design. Initially, it featured two parallel roads — a main one that remained in the final version, along with a back alley on its right. However, I later opted to include several closed shops and stalls in the map to portray the entire district as being under lockdown. These elements are situated in a small square visible in the sketches below. As I contemplated the notion of a locked-down district, I devised a brief and straightforward backstory for the villain who resides there: he serves as the leader of a militia that governs this barricaded area and its inhabitants. For this level, the player character has infiltrated this barricaded district and must take down the leader, in his house.
+I went back to my sheets of paper a few times before settling on a layout that I liked. The map underwent significant changes from the initial draft to its final design. Initially, it featured two parallel roads — a main one that remained in the final version, along with a back alley on its right. However, I later opted to include several closed shops and stalls in the map to portray the entire district as being under lockdown. These elements are situated in a small square (visible in the sketches below), which replaced the back alley. 
+
+As I contemplated the notion of a locked-down district, I devised a brief and straightforward backstory for the villain who resides there: he serves as the leader of a militia that governs this barricaded area and its inhabitants. For this level, the player character has infiltrated this barricaded district and must take down the leader, in his house. Once the leader is dead, a cutscene would then show the player escaping via a door in his house (under the stairs in the showcase video), thanks to key carried by the leader.
 
 
 _(Click the pictures to see bigger versions!)_
@@ -48,7 +50,7 @@ I wanted the player to see where their goal - the head of the milicia - was as s
 
 ### Blocking and iterating
 
-Note that I used the "White Box" philosophy while creating this map, starting from simple geometric shapes, and then only adding details - for example, windows, bins, etc. However, I didn't detail inacessible buildings: those only act as landscape.
+Note that I used the "White Box" philosophy while creating this map, starting from simple geometric shapes, and then only adding details - for example, windows, bins, etc. I didn't detail most of the inacessible buildings: those only act as landscape.
 While I did use some external meshes for some elements (street lights, fountains, cars), most of the blocking was made using Unreal Engine's BSP (which were later converted to static meshes), and its modeling tools, introduced in Unreal Engine 5. Those are perfect for level designing, allowing elements to be modified in-engine!
 To make the blocking clearer, I used Unreal Engine materials from Quixel.
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/SC.png">](https://dekadisk.gitlab.io/assets/SC.png)
@@ -59,9 +61,9 @@ To make the blocking clearer, I used Unreal Engine materials from Quixel.
 
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/UEMAP_1.png">](https://dekadisk.gitlab.io/assets/UEMAP_1.png)
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/Infos.png">](https://dekadisk.gitlab.io/assets/Infos.png)
-Three paths are available for the players: __rushing through the main gate__ is possible, but will lead to the spawn of more enemies behind the main gate, who will rush towards the player. The latter can also decide to __go to point 2__. Going there trigger the __apparition of an enemy carrying a box, who opens a door__ - this is used to __show the player__ that some doors (with padlocks on them) can be opened. Searching the area, the player can discover that one of the enemies is __carrying a key__. Taking it by getting close (or by looting the enemy's corpse) makes the player able to use a safe path in a building, which leads to the __area beyond point 3__. However, point 2.a shows that while opening the door is possible, the player can also decide to climb the building to reach a vantage point is the next area (see the "Rewarding vantage point" part below). Shooting in area 2 also lead to the apparition of more enemies.
+Three paths are available for the players: __rushing through the main gate__ is possible, but will lead to the spawn of more enemies in area C, who will rush towards the player. The latter can also decide to __go to point 2__. Going there trigger the __apparition of an enemy carrying a box, who opens a door__ - this is used to __show the player__ that some doors (with padlocks on them) can be opened. Searching the area, the player can discover that one of the enemies is __carrying a key__. Taking it by getting close (or by looting the enemy's corpse) makes the player able to use a safe path in a building, which leads to the __area C__. However, point 2.a shows that while opening the door is possible, the player can also decide to climb the building to reach a vantage point in the next area (see the "Rewarding vantage point" part below). Shooting in area B also lead to the apparition of more enemies.
 
-The target is on the first floor of the biggest building behind the main gates (4). It can be reached thanks to some parkour on the right, or from the ground on the left, which is more risky because of the guards. Once killed, the target can be looted, giving the player a key that can be used to escape through a door in the enemy's house (visible under the stairs in the showcase video).
+The target is on the first floor of the biggest building in area C (4). It can be reached thanks to some parkour on the right, or from the ground on the left, which is more risky because of the guards. Once killed, the target can be looted, giving the player a key that can be used to escape through a door in the enemy's house (visible under the stairs in the showcase video).
 
 
 ### Level design techniques
@@ -71,7 +73,7 @@ The target is on the first floor of the biggest building behind the main gates (
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/IA_PatrolPointOfView.gif">](https://dekadisk.gitlab.io/assets/IA_PatrolPointOfView.gif)
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/POV.png">](https://dekadisk.gitlab.io/assets/POV.png)
 
-The player can enter some areas from an elevated position, helping him/her assess the situation (where the enemies are). These elevated positions act as rewards: they're not hidden, but aren't on the main path.
+The player can enter some areas from an elevated position, helping him/her assess the situation (see where the enemies are). These elevated positions act as rewards: they're not hidden, but aren't on the main path.
 
 #### Framing, contrast and colors
 
@@ -88,7 +90,7 @@ Colors and contrast are also used to highlight useful parts of the environnement
 
 [<img width="50%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/IA_DoorEnemy.gif">](https://dekadisk.gitlab.io/assets/IA_DoorEnemy.gif)
 
-As said before, going to point 2 triggers the __apparition of an enemy carrying a box, who opens a door__ - this is used to __show the player__ that some doors (with padlocks on them) can be opened. This whole area can be move through in several ways : stealthily (behind stalls), with parkours (on top of the archways), or in a more brutal way, which will lead to new enemies coming from behind the locked door.
+As said before, going to area B triggers the __apparition of an enemy carrying a box, who opens a door__ - this is used to __show the player__ that some doors (with padlocks on them) can be opened. This whole area can be move through in several ways : stealthily (behind stalls), with parkours (on top of the archways), or in a more brutal way, which will lead to new enemies coming from behind the locked door.
 
 [<img width="50%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/Info2.png">](https://dekadisk.gitlab.io/assets/Info2.png)
 
@@ -99,7 +101,7 @@ As said before, going to point 2 triggers the __apparition of an enemy carrying 
 
 ### AI Scripting : patrols and behaviour trees
 
-I created a patrol system, allowing me to set paths for my characters using "Patrol nodes". This helps make the world more dynamic and therefore alive, but also make the enemies much more threatening! Moreover, making the enemies move make them easier to notice for the players! My patrol system uses Unreal Engine 5's behaviour trees.
+I created a patrol system, allowing me to set paths for my characters using "Patrol nodes". This helps make the world more dynamic and therefore alive, but also make the enemies much more threatening! Moreover, making the enemies move make them easier to notice for the players (especially on the villain's house's balcony)! My patrol system uses Unreal Engine 5's behaviour trees.
 
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/IA_Patrol.gif">](https://dekadisk.gitlab.io/assets/IA_Patrol.gif)
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/IA_PatrolBox.gif">](https://dekadisk.gitlab.io/assets/IA_PatrolBox.gif)
@@ -109,12 +111,12 @@ I also added the possibility to link tasks to "Patrol nodes", as seen in the pre
 
 [<img width="80%" style="display:block; margin-left:auto; margin-right:auto" src="https://dekadisk.gitlab.io/assets/Renfocement.gif">](https://dekadisk.gitlab.io/assets/Renfocement.gif)
 
-After a few shots, more enemies are spawned in two areas of the map - depending on the location of the player. Indeed, shooting at enemies while in area B will make enemies appear from behind the locked door. Otherwise, the appear in front of a door in area C.
+After a few shots, more enemies are spawned in two areas of the map - depending on the location of the player. Indeed, shooting at enemies while in area B will make enemies appear from behind the locked door. Otherwise, the appear in front of a door in area C - meaning that a player rushing through the main gates will first have to fight a wave of enemies.
 
 
 ### Conclusion
 
-Of course, this map is far from finished, as no asset is finished - but that's the point of the blocking phase! However, with a bit more time, I would probably make this map a night-time level ; this would require the guard to have torchlights, which would make them more visible, aiding players in comprehending the enemies' field of vision through the illumination cones. Moreover, I would expand the overall size of the map slightly.
+Of course, this map is far from finished, as no asset is finished - but that's the point of the blocking phase! However, with a bit more time, I would probably make this map a night-time level ; this would require the guard to have torchlights, which would make them more visible, aiding players in comprehending the enemies' field of vision through the illumination cones. Moreover, I would expand the overall size of the map slightly, adding one or two escape roads that would replace the locked door in the villain's house.
 
 ## Using LUA to create games
 
