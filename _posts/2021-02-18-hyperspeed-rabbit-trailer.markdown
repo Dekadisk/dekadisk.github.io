@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Hyperspeed Rabbit - Trailer available"
+title:  "Hyperspeed Rabbit"
 date:   2021-02-18 13:57:14 -0300
 categories: "video_games"
 img: Thumbnail_HS.png
+weight: 98
 ---
 A trailer for Hyperspeed Rabbit is now available on Youtube. No lies here, only in-engine footage!
 
