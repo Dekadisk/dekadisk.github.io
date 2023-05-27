@@ -5,7 +5,7 @@
     <div class="portfolio-flex-row">
       {% assign posts_list = site.posts %}  
       {% assign posts_list = posts_list | sort:"weight" %}
-      {% for post in posts_list %}
+      {% for post in posts_list reversed %}
       {% if post.categories[0] == "video_games" %}
       <div class="portfolio-flex-item portfolio-item">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
