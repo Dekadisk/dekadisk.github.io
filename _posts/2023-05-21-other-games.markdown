@@ -4,6 +4,7 @@ title:  "Other games"
 date:   2023-05-21 12:00:01 -0300
 categories: "video_games"
 img: Platformer.png
+weight: 96
 ---
 <style>body {text-align: justify}</style>
 
