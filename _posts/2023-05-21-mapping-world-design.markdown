@@ -4,6 +4,7 @@ title:  "World Design, level design, scripting, and more"
 date:   2023-05-21 12:00:01 -0300
 categories: "video_games"
 img: UEMAP.png
+weight: 99
 ---
 <style>body {text-align: justify}</style>
 _Please note that this text is available only in English. I am french, though, so some untranslated words might be on some of my drawings._
