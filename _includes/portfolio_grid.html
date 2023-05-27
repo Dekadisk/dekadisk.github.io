@@ -3,7 +3,9 @@
   Note: my CSS is currently broken, and will be fixed ASAP.
   <div class="container portfolio-flex-grid">
     <div class="portfolio-flex-row">
-      {% for post in site.posts %}
+      {% assign posts_list = site.posts %}  
+      {% assign posts_list = posts_list | sort:"weight" %}
+      {% for post in posts_list %}
       {% if post.categories[0] == "video_games" %}
       <div class="portfolio-flex-item portfolio-item">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
