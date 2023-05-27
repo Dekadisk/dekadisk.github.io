@@ -8,4 +8,6 @@ weight: 95
 ---
 <style>body {text-align: justify}</style>
 My resume is also available on [LinkedIn](https://www.linkedin.com/in/julien-leonard/). Some projects are not referenced there though, but can be found on this website by clicking the purple "DEKADISK" above. Thank you!**
-<embed src="https://dekadisk.github.io/assets/Resume_Julien_LEONARD_EN.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
+
+Here is the french version - the english one is coming soon.
+<embed src="https://dekadisk.github.io/assets/CV_Julien_LEONARD.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
