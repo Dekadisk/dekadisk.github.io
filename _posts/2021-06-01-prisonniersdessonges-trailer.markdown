@@ -9,8 +9,9 @@ weight: 100
 A trailer for Prisonniers des Songes is now available on Youtube (only in french, though, sorry). I am part of the team that worked on it, primarily as the **game designer (technical designer) and gameplay programmer**, and we put in a lot of effort to make it happen. [Here is the Github link!](https://github.com/Dekadisk/PrisonniersDesSonges)
 
 _The creation of this game involved the utilization of C++ programming and scripting with blueprints in Unreal Engine 4, as well as the incorporation of Wwise for audio functions._
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-1EHMtNWxX8?t=62" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U-_bJto8kRs?t=62" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Here is the design document, in French:
 <embed src="https://dekadisk.github.io/assets/Design_Final_Labyrinth.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
