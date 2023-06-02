@@ -1,27 +1,22 @@
 ---
 layout: page
-title: 5e TTRPG campaigns
-permalink: /ttrpgcampaigns.html
+title: Link for Ubisoft Bordeaux
+permalink: /ubisoft.html
 ---
 
-<div class="home">
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+{% for post in site.posts %}
+    {% if post.categories[0] == "ubisoft" %}
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta">{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
 
-  <h1 class="page-heading">Here are my D&D5 campaigns!</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-    {% if post.categories[0] == "dd_campaigns" %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-      {% endif %}
+  <div class="post-content" itemprop="articleBody">
+    {{ post.content }}
+  </div>
+{% endif %}
     {% endfor %}
-  </ul>
-
-  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+</article>
 
 </div>
