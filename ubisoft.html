@@ -4,19 +4,4 @@ title: Link for Ubisoft Bordeaux
 permalink: /ubisoft.html
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-{% for post in site.posts %}
-    {% if post.categories[0] == "ubisoft" %}
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta">{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ post.content }}
-  </div>
-{% endif %}
-    {% endfor %}
-</article>
-
-</div>
+{% include 2023-05-21-mapping-world-design.markdown %}
