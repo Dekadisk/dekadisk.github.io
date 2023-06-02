@@ -4,4 +4,8 @@ title: Link for Ubisoft Bordeaux
 permalink: /ubisoft.html
 ---
 
-{% include 2023-05-21-mapping-world-design.markdown %}
+{% for post in site.posts %}
+    {% if post.categories[0] == "ubisoft" %}
+      {{ post.content }}
+    {% endif %}
+{% endfor %}
