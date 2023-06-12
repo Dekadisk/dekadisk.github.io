@@ -2,7 +2,7 @@
 layout: post
 title:  "Shieldbash"
 date:   2023-05-21 12:00:01 -0300
-categories: "ubisoft"
+categories: "video_games"
 img: ShieldBash_Thumbnail.png
 weight: 99
 ---
