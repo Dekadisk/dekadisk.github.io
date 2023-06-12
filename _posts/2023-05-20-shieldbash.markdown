@@ -3,7 +3,7 @@ layout: post
 title:  "Shieldbash"
 date:   2023-05-21 12:00:01 -0300
 categories: "ubisoft"
-img: Thumbnail_UE.png
+img: ShieldBash_Thumbnail.png
 weight: 99
 ---
 <style>body {text-align: justify}</style>
@@ -20,3 +20,7 @@ Forget Just Cause-style grappling hooks ; here, using yours make you swing, not 
 ## Shield bashing
 
 Not having a firearm doesn't mean you're powerless. Thanks to your might shield, throw enemies into the void, traps, or deflect their projectiles right back at them! You can also use your shield bash on the environment - who doesn't like throwing crates and explosive barrels at their enemies?
+
+## Stomping and jump
+
+Stomp the ground after a double jump, or jump on your enemies' heads with your shield, which will reset your jumps!
