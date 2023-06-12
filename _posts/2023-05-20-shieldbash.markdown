@@ -4,7 +4,7 @@ title:  "Shieldbash"
 date:   2023-05-21 12:00:01 -0300
 categories: "video_games"
 img: ShieldBash_Thumbnail.png
-weight: 99
+weight: 97
 ---
 <style>body {text-align: justify}</style>
 SHIELDBASH is an UE5 project that I'm working on in my spare time. In SHIELDBASH, the player has to make their way through hordes of enemies, armed with only a shield and a grappling hook. Forget shooting your enemies ; you now have to deflect their projectiles back at them, throw them into lava, or hurt them with crates thrown with your shield. Platforming is also an important part of this speedrun-friendly game. 
