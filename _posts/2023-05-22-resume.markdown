@@ -4,7 +4,7 @@ title:  "Full resume (PDF)"
 date:   2023-05-21 12:00:01 -0300
 categories: "video_games"
 img: Thumbnail_Resume.png
-weight: 95
+weight: 94
 ---
 <style>body {text-align: justify}</style>
 My resume is also available on [LinkedIn](https://www.linkedin.com/in/julien-leonard/). Some projects are not referenced there though, but can be found on this website by clicking the purple "DEKADISK" above. Thank you!
