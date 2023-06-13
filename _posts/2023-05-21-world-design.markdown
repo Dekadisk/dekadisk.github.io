@@ -136,5 +136,5 @@ I also know C++, C#, C, Java, Python (and a few others). Please have a look at m
 
 As you may know if you've already looked at the rest of this website, I'm a fan of TTRPGS, such as Call of Cthulhu or Dungeons & Dragons. However, if I am sometimes a player, I am a Game Master much more often! Which is great, as I love creating and designing worlds for my players. I'm currently mastering a homebrew D&D 5th edition campaign - which is to say, I created all of it! I'm currently writing a short campaign book, but here is a PDF showing a part of it (description of a district : its history and a few Non-Playable Characters).
 
-<embed src="https://dekadisk.gitlab.io/assets/Intrigues_Coldcoast_Rats_EN.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
+<embed src="https://dekadisk.gitlab.io/assets/Souffrebleu.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
 
