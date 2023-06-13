@@ -9,7 +9,8 @@ Prepare for an epic adventure with "The Frozen Poisons of Ymhera" campaign, tail
 
 Available in the next few weeks, in english. 
 
-<span style="color:blue">[(And for now, here is a quick look at the first dungeon, in which player will have their first encounter with corrupted constructs).][1]</span>
-
+<span style="color:blue">[(And for now, here is a quick look at the first dungeon, in which player will have their first encounter with corrupted constructs)...][1]</span>
+... and a sample of what's to come!
+<embed src="https://dekadisk.gitlab.io/assets/Souffrebleu.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
 
 [1]:https://dekadisk.gitlab.io/assets/Dwarven_Fortress.png
