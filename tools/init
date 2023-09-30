@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#
+# EOL-fixed version of this file.
 # Init the environment for new user.
 
 set -eu
