@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Chirpy Jekyll Theme
+  # Chirpy Jekyll Theme, used by Dekadisk
 
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
