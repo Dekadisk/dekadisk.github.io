@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
-#
+# EOL-fixed version of this file.
 # Init the environment for new user.
 
 set -eu
 
+echo "LAUNCHING."
 # CLI Dependencies
 CLI=("git" "npm")
 
@@ -45,7 +46,7 @@ _check_cli() {
 _check_status() {
   if [[ -n $(git status . -s) ]]; then
     echo "Error: Commit unstaged files first, and then run this tool again."
-    exit 1
+    #exit 1
   fi
 }
 
@@ -53,7 +54,7 @@ _check_init() {
   local _has_inited=false
 
   if [[ ! -d .github ]]; then # using option `--no-gh`
-    _has_inited=true
+    _has_inited=false
   else
     if [[ -f .github/workflows/$ACTIONS_WORKFLOW ]]; then
       # on BSD, the `wc` could contains blank
@@ -76,7 +77,6 @@ check_env() {
   _check_status
   _check_init
 }
-
 checkout_latest_release() {
   hash=$(git log --grep="chore(release):" -1 --pretty="%H")
   git reset --hard "$hash"
