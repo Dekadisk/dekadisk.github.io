@@ -1,7 +1,7 @@
 ---
 title: Hyperspeed Rabbit
 date: 2023-10-02 21:00:00 +0800
-categories: [Video games]
+categories: [Videogames]
 tags: [cpp, custom engine, physX, rendering]
 pin: true
 ---
