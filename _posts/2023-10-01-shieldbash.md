@@ -17,7 +17,7 @@ _Please note that screenshots provided are from levels specifically built to sho
 
 ## Grappling hook
 
-Forget Just Cause-style grappling hooks ; here, using yours make you swing, not dash forward! 
+Forget Just Cause-style grappling hooks ; here, using yours makes you swing, not dash forward! 
 ![Desktop View](https://dekadisk.github.io/assets/img/gifs/Swinging.gif)
 
 ## Shield bashing
