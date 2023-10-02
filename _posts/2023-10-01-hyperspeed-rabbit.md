@@ -5,6 +5,8 @@ categories: [Videogames]
 tags: [cpp, customengine, physX, rendering]
 image:
   path: https://dekadisk.github.io/assets/img/thumbnails/hyperspeedrabbit.png
+  lqip: data:image/png;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: A screenshot of the video game, Hyperspeed Rabbit.
 pin: true
 ---
 
