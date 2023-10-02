@@ -8,5 +8,5 @@ I am currently developing Black Fountain, an interactive text adventure for smar
 
 For now, here are some early screenshots:
 
-![Black Fountain - early screenshot 1](https://dekadisk.gitlab.io/assets/img/Screenshot_1.png)
-![Black Fountain - early screenshot 2](https://dekadisk.gitlab.io/assets/img/BF_Screenshot.png)
+![Black Fountain - early screenshot 1](https://dekadisk.github.io/assets/img/Screenshot_1.png)
+![Black Fountain - early screenshot 2](https://dekadisk.github.io/assets/img/BF_Screenshot.png)
