@@ -5,7 +5,7 @@ categories: [Videogames]
 tags: [cpp, unrealengine, multiplayer]
 image:
   path: https://dekadisk.github.io/assets/img/thumbnails/prisonniersdessonges.png
-  alt: A screenshot of the video game.
+  alt: An illustration of the video game.
 pin: true
 ---
 
