@@ -5,7 +5,7 @@ categories:  [Videogames]
 tags: [cpp, unrealengine, singleplayer]
 image:
   path: https://dekadisk.github.io/assets/img/thumbnails/shieldbash.png
-  alt: A screenshot of the video game Shieldbash.
+  alt: A screenshot of the video game.
 pin: true
 ---
 
