@@ -25,9 +25,10 @@ Forget Just Cause-style grappling hooks ; here, using yours make you swing, not 
 Not having a firearm doesn't mean you're powerless. Thanks to your might shield, throw enemies into the void, traps, or deflect their projectiles right back at them! You can also use your shield bash on the environment - who doesn't like throwing crates and explosive barrels at their enemies?
 ![Desktop View](https://dekadisk.github.io/assets/img/gifs/ReflectBalls.gif)
 
-## Stomping and jump
+## Stomping and jumping
 
 Stomp the ground after a double jump, or jump on your enemies' heads with your shield, which will reset your jumps!
+
 ![Desktop View](https://dekadisk.github.io/assets/img/gifs/Stomp.gif)
 
 ![Desktop View](https://dekadisk.github.io/assets/img/gifs/HeadJump.gif)
