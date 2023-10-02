@@ -3,6 +3,8 @@ title: Hyperspeed Rabbit
 date: 2023-10-01 21:00:01 +0800
 categories: [Videogames]
 tags: [cpp, customengine, physX, rendering]
+image:
+  path: assets/img/thumbnails/hyperspeedrabbit.png
 pin: true
 ---
 
