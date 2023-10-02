@@ -511,7 +511,7 @@ main {
   overflow: hidden;
   position: relative;
   background: var(--img-bg);
-
+/*
   &::before {
     content: '';
     position: absolute;
@@ -540,7 +540,7 @@ main {
     100% {
       transform: translateX(100%);
     }
-  }
+  }*/
 }
 
 .embed-video {
