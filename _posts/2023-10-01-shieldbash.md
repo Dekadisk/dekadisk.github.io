@@ -15,16 +15,16 @@ _Please note that screenshots provided are from levels specifically built to sho
 ## Grappling hook
 
 Forget Just Cause-style grappling hooks ; here, using yours make you swing, not dash forward! 
-![Desktop View](https://dekadisk.github.io/assets/Swinging.gif)
+![Desktop View](https://dekadisk.github.io/assets/gifs/Swinging.gif)
 
 ## Shield bashing
 
 Not having a firearm doesn't mean you're powerless. Thanks to your might shield, throw enemies into the void, traps, or deflect their projectiles right back at them! You can also use your shield bash on the environment - who doesn't like throwing crates and explosive barrels at their enemies?
-![Desktop View](https://dekadisk.github.io/assets/ReflectBalls.gif)
+![Desktop View](https://dekadisk.github.io/assets/gifs/ReflectBalls.gif)
 
 ## Stomping and jump
 
 Stomp the ground after a double jump, or jump on your enemies' heads with your shield, which will reset your jumps!
-![Desktop View](https://dekadisk.github.io/assets/Stomp.gif)
+![Desktop View](https://dekadisk.github.io/assets/gifs/Stomp.gif)
 
-![Desktop View](https://dekadisk.github.io/assets/HeadJump.gif)
+![Desktop View](https://dekadisk.github.io/assets/gifs/HeadJump.gif)
