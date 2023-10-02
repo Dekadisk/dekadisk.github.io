@@ -9,11 +9,11 @@ image:
 pin: true
 ---
 
-SHIELDBASH is an UE5 project that I'm working on in my spare time. In SHIELDBASH, the player has to make their way through hordes of enemies, armed with only a shield and a grappling hook. Forget shooting your enemies ; you now have to deflect their projectiles back at them, throw them into lava, or hurt them with crates thrown with your shield. Platforming is also an important part of this speedrun-friendly game. 
+SHIELDBASH is an UE5 project. In SHIELDBASH, the player has to make their way through hordes of enemies, armed with only a shield and a grappling hook. Forget shooting your enemies ; you now have to deflect their projectiles back at them, throw them into lava, or hurt them with crates thrown with your shield. Platforming is also an important part of this speedrun-friendly game. 
 
 SHIELDBASH is heavily inspired by retroFPS games such as Doom and Wolfenstein, and arcade games such has Anger Foot.
 
-_Please note that screenshots provided are from levels specifically built to show mechanics. These levels might not be in the final game._
+_Please note that screenshots provided are from levels specifically built to show mechanics. These levels will not be in the final (short) game._
 
 ## Grappling hook
 
