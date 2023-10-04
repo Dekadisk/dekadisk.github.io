@@ -9,6 +9,6 @@ image:
 pin: true
 ---
 
-Hyperspeed Rabbit is a video game project using a custom engine. As a part of the team that worked on it, I worked primarily as an engine/gameplay programmer and a game designer. Hyperspeed Rabbit was developed using DirectX and PhysX only - it uses our own engine! The project can be downloaded on my Github, [here](https://github.com/Dekadisk/HyperspeedRabbit).
+Hyperspeed Rabbit is a video game project using a custom engine.  As a member of the team involved in its creation, my primary roles encompassed engine and gameplay programming, along with game design responsibilities. Hyperspeed Rabbit was developed using DirectX and PhysX, all within the confines of our own engine. You can access and download the project from my Github repository, available [here](https://github.com/Dekadisk/HyperspeedRabbit).
 
 {% include embed/youtube.html id='Xic0pLmI7JU' %}
