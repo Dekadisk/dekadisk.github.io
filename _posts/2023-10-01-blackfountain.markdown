@@ -9,6 +9,7 @@ I am currently developing Black Fountain, an interactive text adventure for smar
 For now, here are some early screenshots:
 
 ![Desktop View](https://dekadisk.github.io/assets/img/Screenshot_1.png)
+
 ![Desktop View](https://dekadisk.github.io/assets/img/BF_Screenshot.png)
 
 Black Fountain itself and the companion app used to write the story are developed with Unity.
