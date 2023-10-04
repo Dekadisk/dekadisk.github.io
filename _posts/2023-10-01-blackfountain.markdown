@@ -12,4 +12,4 @@ For now, here are some early screenshots:
 
 ![Desktop View](https://dekadisk.github.io/assets/img/BF_Screenshot.png)
 
-Black Fountain itself and the companion app used to write the story are developed with Unity.
+Black Fountain itself and the companion app used to write the story are developed with Unity. No ETA, as writing the game's story takes some time and is currently not my priority.
