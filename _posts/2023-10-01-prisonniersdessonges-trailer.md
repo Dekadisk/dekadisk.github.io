@@ -9,6 +9,7 @@ image:
 pin: true
 ---
 
-I am part of the team that worked on the 3D mutiplayer game "Prisonniers des Songes". I worked primarily as the **game designer (technical designer) and gameplay programmer**, and we put in a lot of effort to make it happen. [Here is the Github link!](https://github.com/Dekadisk/PrisonniersDesSonges)
+I played a key role in the team that brought the 3D multiplayer game 'Prisonniers des Songes' to life. I took on the roles of game designer (technical designer) and gameplay programmer, putting in a lot of effort to make it happen. 
+My responsibilities encompassed gameplay programming and game design (technical design). Feel free to explore the Github link for further details! [Here is the Github link!](https://github.com/Dekadisk/PrisonniersDesSonges)
 
 {% include embed/youtube.html id='U-_bJto8kRs?t=62' %}
