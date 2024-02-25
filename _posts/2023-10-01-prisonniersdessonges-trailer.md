@@ -9,7 +9,9 @@ image:
 pin: true
 ---
 
-I played a key role in the team that brought the 3D multiplayer game 'Prisonniers des Songes' to life. I took on the roles of game designer (technical designer) and gameplay programmer, putting in a lot of effort to make it happen. 
+__Used for this project__: *C++, Unreal Engine 4, database, 3d maths, procedural generation, multiplayer features*
+
+I played a key role in the team that brought the 3D multiplayer game 'Prisonniers des Songes' to life. I took on the roles of game designer (technical designer) and gameplay programmer. 
 My responsibilities encompassed gameplay programming and game design (technical design). Feel free to explore the Github link for further details! [Here is the Github link!](https://github.com/Dekadisk/PrisonniersDesSonges)
 
 {% include embed/youtube.html id='U-_bJto8kRs?t=62' %}
