@@ -1,7 +1,7 @@
 ---
 title:  "[PRO] Yuzu - Gameplay and engine programming"
 date:   2024-01-29 21:00:01 -0300
-categories: [Videogames]
+categories: [Professional works]
 tags: [cpp, unreal engine, narrative]
 image:
   path: https://dekadisk.github.io/assets/img/thumbnails/yuzugp.webp
