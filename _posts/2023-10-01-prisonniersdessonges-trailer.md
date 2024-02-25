@@ -1,7 +1,7 @@
 ---
 title: Prisonniers des Songes
 date: 2023-10-01 21:10:00 +0800
-categories: [Videogames]
+categories: [Academic works]
 tags: [cpp, unrealengine, multiplayer]
 image:
   path: https://dekadisk.github.io/assets/img/thumbnails/prisonniersdessonges.png
