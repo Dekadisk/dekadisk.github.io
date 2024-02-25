@@ -1,7 +1,7 @@
 ---
 title:  "Black Fountain - A choice-based text adventure"
 date:   2023-10-01 21:00:01 -0300
-categories: [Videogames]
+categories: [Personal works]
 tags: [csharp, unity, narrative]
 ---
 
