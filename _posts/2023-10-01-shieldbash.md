@@ -15,7 +15,7 @@ SHIELDBASH is an UE5 project. In SHIELDBASH, the player has to make their way th
 
 SHIELDBASH is heavily inspired by retroFPS games such as Doom and Wolfenstein, and arcade games such has Anger Foot.
 
-_Please note that screenshots provided are from levels specifically built to show mechanics. These levels will not be in the final (short) game._
+_Please note that screenshots provided are from levels specifically built to show mechanics. These levels - and the very basic textures used to showcase the features - are not in the final (short) game._
 
 ## Grappling hook
 
