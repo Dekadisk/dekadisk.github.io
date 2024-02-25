@@ -1,12 +1,16 @@
 ---
-title:  "Small projects in Godot and LUA (Love2D engine)"
+title:  "Very small projects in Godot and LUA (Love2D engine)"
 date:   2023-10-01 21:00:01 +0800
 categories: "Videogames"
 tags: [lua, godot, love2d, gdscript]
 published: false
 ---
 
-Here's a very basic project made to learn how to use Godot and its GDScript.
+__Used for these projects__: *Godot, GDScript, LUA, Love2D engine*
+
+This page features *very* small projects made with Godot and LUA, which do not deserve their own article. All of them were used as learning tools.
+
+Here's a very simple project made to learn how to use Godot and its GDScript.
 
 {% include embed/youtube.html id='xLRPosT08RY' %}
 
