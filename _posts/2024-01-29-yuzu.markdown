@@ -1,13 +1,15 @@
 ---
-title:  "Black Fountain - A choice-based text adventure"
-date:   2023-10-01 21:00:01 -0300
+title:  "Yuzu - Gameplay and engine programming"
+date:   2024-01-29 21:00:01 -0300
 categories: [Videogames]
-tags: [csharp, unity, narrative]
+tags: [cpp, unreal engine, narrative]
 ---
-I am currently developing Black Fountain, an interactive text adventure for smartphones that offers a choice-based experience. This game, heavily influenced by the Lifeline series, will be available in both French and English. In Black Fountain, players engage in real-time conversations with a character who inhabits a unique world. Through notifications, players are informed when the character wishes to communicate, allowing them to interact and guide the character towards making crucial decisions for survival.
+I spent a few months working as a gameplay and engine programmer for Yuzu, a Parisian start-up working on an Unreal Engine-based game which aims at evaluating candidates' soft skills as a part of recruitement processes.
 
-For now, here are some early screenshots, with placeholder text, to showcase the UI:
-
-![Desktop View](https://dekadisk.github.io/assets/img/BF.png)
-
-Black Fountain itself and the companion app used to write the story are developed with Unity. No ETA, as writing the story is currently not my priority.
+My work involved:
+- implementing camera and mouse-related features
+- implementing the game narrative logic for new parts of the game
+- fixing bugs, of course!
+- implementing tools (including some using [MothCocoon's FlowGraph](https://github.com/MothCocoon/FlowGraph) as a basis
+- reviewing and updating the entire game code to eliminate technical debt
+- create all the tools and functionalities required for the logic and implementation of new puzzles in version 2.0 of the game
