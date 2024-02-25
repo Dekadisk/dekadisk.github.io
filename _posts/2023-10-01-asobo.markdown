@@ -1,5 +1,5 @@
 ---
-title:  "Gameplay programming - Asobo"
+title:  "Asobo - Gameplay programming"
 date:   2023-10-01 21:00:01 -0300
 categories: [Videogames]
 tags: [cpp, xml, python, ui, gameplay programming, sound programming, engine programming]
