@@ -1,7 +1,7 @@
 ---
 title:  "[PRO] Asobo - Gameplay programming"
 date:   2023-10-01 21:00:01 -0300
-categories: [Videogames]
+categories: [Professional works]
 tags: [cpp, xml, python, ui, gameplay programming, sound programming, engine programming]
 ---
 I spent a few months working as a gameplay programmer for Asobo, as part of the Microsoft Flight Simulator team. Sadly, a NDA prevents me from talking about most of the things I did there, and will do so until August! Until then, this article is a placeholder.
