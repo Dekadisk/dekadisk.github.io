@@ -3,6 +3,9 @@ title:  "Yuzu - Gameplay and engine programming"
 date:   2024-01-29 21:00:01 -0300
 categories: [Videogames]
 tags: [cpp, unreal engine, narrative]
+image:
+  path: https://dekadisk.github.io/assets/img/thumbnails/yuzulogo.png
+  alt: The "Yuzu" logo.
 ---
 I spent a few months working as a gameplay and engine programmer for Yuzu, a Parisian start-up working on an Unreal Engine-based game which aims at evaluating candidates' soft skills as a part of recruitement processes.
 
