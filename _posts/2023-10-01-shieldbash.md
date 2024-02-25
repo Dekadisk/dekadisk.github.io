@@ -1,7 +1,7 @@
 ---
 title:  "Shieldbash"
 date:   2023-10-01 21:00:00 +0800
-categories:  [Videogames]
+categories:  [Personal works]
 tags: [cpp, unrealengine, singleplayer]
 image:
   path: https://dekadisk.github.io/assets/img/thumbnails/shieldbash.png
