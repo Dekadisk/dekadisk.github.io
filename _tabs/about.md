@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi there. I'm a software engineer and video game developer, and use this website as a portfolio. If you've been sent here by clicking on one of my resume's link, please use the provided email or phone number to contact me.
+Hello! I'm a software engineer and video game developer, and I use this website as a portfolio. If you've landed here by clicking on a link from my resume, kindly reach out to me using the provided email or phone number.
