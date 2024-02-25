@@ -1,5 +1,5 @@
 ---
-title:  "Yuzu - Gameplay and engine programming"
+title:  "[PRO] Yuzu - Gameplay and engine programming"
 date:   2024-01-29 21:00:01 -0300
 categories: [Videogames]
 tags: [cpp, unreal engine, narrative]
