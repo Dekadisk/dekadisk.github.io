@@ -5,7 +5,7 @@ categories: [Videogames]
 tags: [csharp, unity, narrative]
 ---
 
-Used for this project: C#, Unity, Android
+__Used for this project__: *C#, Unity, Android*
 
 I am currently developing Black Fountain, an interactive text adventure for smartphones that offers a choice-based experience. This game, heavily influenced by the Lifeline series, will be available in both French and English. In Black Fountain, players engage in real-time conversations with a character who inhabits a unique world. Through notifications, players are informed when the character wishes to communicate, allowing them to interact and guide the character towards making crucial decisions for survival.
 
