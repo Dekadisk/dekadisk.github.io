@@ -6,7 +6,7 @@ tags: [cpp, unrealengine, singleplayer]
 image:
   path: https://dekadisk.github.io/assets/img/thumbnails/shieldbash.png
   alt: An illustration of the game.
-pin: true
+pin: false
 ---
 
 __Used for this project__: *C++, Unreal Engine 5*
