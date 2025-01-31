@@ -13,5 +13,5 @@ My work involved:
 - implementing camera and mouse-related features
 - reworking game narrative logic for parts of the game
 - fixing bugs, of course!
-- implementing tools (including some using [MothCocoon's FlowGraph](https://github.com/MothCocoon/FlowGraph)) as a basis
-- reviewing and updating the entire game code to eliminate technical debt and have the features required for the logic and implementation of new puzzles in version 2.0 of the game
+- implementing tools and plugins
+- reviewing and updating the entire game code to eliminate technical debt and be future-proof
