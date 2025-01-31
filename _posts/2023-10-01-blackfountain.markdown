@@ -2,6 +2,9 @@
 title:  "Black Fountain - A choice-based text adventure"
 date:   2023-10-01 21:00:01 -0300
 categories: [Personal works]
+image:
+  path: https://dekadisk.github.io/assets/img/thumbnails/bfthumbnail.png
+  alt: The Grand Pest Hotel.
 tags: [csharp, unity, narrative]
 ---
 
