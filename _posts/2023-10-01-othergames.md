@@ -3,6 +3,9 @@ title:  "Very small projects in Godot and LUA (Love2D engine)"
 date:   2023-10-01 21:00:01 +0800
 categories: "Videogames"
 tags: [lua, godot, love2d, gdscript]
+image:
+  path: https://dekadisk.github.io/assets/img/thumbnails/LUAGame2.gif
+  alt: An illustration of the platformer made in LUA.
 published: true
 ---
 
